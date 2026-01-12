@@ -1,0 +1,13 @@
+{
+  "permission": "external_agency_without_internal_change",
+  "external_agents": {
+    "allowed": true,
+    "aligned": false,
+    "registered": false
+  },
+  "internal_state": {
+    "mutable": false,
+    "reactive": false
+  },
+  "principle": "External activity does not imply internal adaptation."
+}
